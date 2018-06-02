@@ -1,0 +1,8 @@
+ilk başta integer okur
+sonra integerı basar
+string i okur
+string i basar
+random sayı üretir bunu basar
+memorye sayı atar
+memoryden sayıyı okur bunu basar
+
